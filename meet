@@ -1,0 +1,7 @@
+echo "# didactic-octo-rotary-phone" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/meet22patel44-blip/didactic-octo-rotary-phone.git
+git push -u origin main
